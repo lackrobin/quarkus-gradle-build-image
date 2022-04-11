@@ -2,6 +2,10 @@
 
 This image can be used on google cloud build as a build image to build a native quarkus image.
 
+## Image
+
+you can find the prebuildt image here: https://hub.docker.com/r/lackrobin/quarkus-gradle-build-image
+
 ## Example usage
 ```yaml
 steps:
